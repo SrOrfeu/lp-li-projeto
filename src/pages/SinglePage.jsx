@@ -1,4 +1,5 @@
-import Header from "../components/organisms/Header";
+import Header from "../components/organism/Header";
+
 
 export default function SinglePage() {
     return (
